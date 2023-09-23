@@ -47,7 +47,7 @@ export default function Profile() {
         <div className="imagediv "></div>
        </div>
        <div className="bigpdiv">
-        <h3 className='text-center mt-5'>Profile Details</h3>
+        <h3 className='text-center mt-5'>Profile </h3>
         <div className="proviewdiv" style={{display:dis}}>
             <h3>Name : {userview.Name}</h3>
             <h3>Contact : {userview.Contact}</h3>
