@@ -1,0 +1,13 @@
+[1mdiff --git a/Todofrontend/todofrontend/src/Components/Profile/Profile.js b/Todofrontend/todofrontend/src/Components/Profile/Profile.js[m
+[1mindex 66b761d..f8968cf 100644[m
+[1m--- a/Todofrontend/todofrontend/src/Components/Profile/Profile.js[m
+[1m+++ b/Todofrontend/todofrontend/src/Components/Profile/Profile.js[m
+[36m@@ -43,7 +43,7 @@[m [mexport default function Profile() {[m
+     <Nav></Nav>[m
+     <div className="prodiv">[m
+        <div className="lenpdiv">[m
+[31m-        <h3 className='text-center mt-5'>Profiles</h3>[m
+[32m+[m[32m        <h3 className='text-center mt-5'>Profilekdsaskjfl</h3>[m
+         <div className="imagediv "></div>[m
+        </div>[m
+        <div className="bigpdiv">[m
