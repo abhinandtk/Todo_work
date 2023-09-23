@@ -1,0 +1,33 @@
+.headbox{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+
+
+}
+.Viewpbox{
+   border: 2px rgb(99, 67, 67) solid;
+   width: 60vw;
+   margin: 50px auto;
+   border-radius: 10px;
+   padding: 30px;
+
+}
+.headbox > h5{
+    font-weight: bolder;
+}
+.Productvbox{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+
+
+}
+.Productvbox >h6{
+    font-size: larger;
+}
+.cubes{
+    border: 1px black solid;
+    width: 25%;
+}

@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Edu SA Beginner', cursive;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

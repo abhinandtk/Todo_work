@@ -1,0 +1,5 @@
+.homebox{
+    height: 100vh;
+    background-image: url('./Images/Homeimage.jpg');
+    background-size: contain;
+}
