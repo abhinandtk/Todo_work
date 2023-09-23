@@ -43,7 +43,7 @@ export default function Profile() {
     <Nav></Nav>
     <div className="prodiv">
        <div className="lenpdiv">
-        <h3 className='text-center mt-5'>Profile</h3>
+        <h3 className='text-center mt-5'>Profiles</h3>
         <div className="imagediv "></div>
        </div>
        <div className="bigpdiv">
